@@ -4,7 +4,7 @@
  Created using WebSlides (https://github.com/webslides/webslides)  
    
    
- Clone (or manually download) this repo and view main.html in the slide folder
+ Clone (or manually download) this repo and view main.html in the slides folder
  ```
  git clone github.com/kimjhkp/singlecell_ppt
  ```
